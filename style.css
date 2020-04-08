@@ -1,0 +1,22 @@
+.img-background {
+    background-image: url('ITZY-ryujin.jpg'); 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 360px;
+    
+}
+
+html, h1, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.img-about{
+    border-radius: 30px;
+    height: 500px;
+}
+
+.img-logo {
+    height: 45px;
+}
+
+
